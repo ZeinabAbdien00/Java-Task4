@@ -46,9 +46,9 @@ public class Main {
     static void unExistsId(Boolean isUnExist) {
         if (!isUnExist) {
             System.out.println("id is not exist");
+            DataFactorization.printLine();
         }
         isExistId = false;
-        System.out.println("------------------------------------------");
 
     }
 
@@ -81,6 +81,7 @@ public class Main {
             }
         }
         unExistsId(isExistId);
+
     }
 
     static void insertName(ArrayList<DataFactorization> list) {
@@ -90,6 +91,5 @@ public class Main {
         DataFactorization newObj = new DataFactorization(id, name);
         list.add(newObj);
         newObj.print(name);
-        System.out.println("------------------------------------------");
     }
 }

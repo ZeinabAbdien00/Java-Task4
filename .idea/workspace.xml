@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2559bf27-53a9-450e-8dcf-186e7f8bbe11" name="Changes" comment="" />
+    <list default="true" id="2559bf27-53a9-450e-8dcf-186e7f8bbe11" name="Changes" comment="initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2N1DK2CBL2fDyELKYjbKmMbdIJA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,6 +34,18 @@
       <option name="presentableId" value="Default" />
       <updated>1678822628327</updated>
     </task>
+    <task id="LOCAL؜-٠٠٠٠١" summary="initial commit">
+      <created>1678822647226</created>
+      <option name="number" value="٠٠٠٠١" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠١" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1678822647226</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>

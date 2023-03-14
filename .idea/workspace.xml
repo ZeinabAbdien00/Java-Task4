@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2559bf27-53a9-450e-8dcf-186e7f8bbe11" name="Changes" comment="task logic">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Print.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Print.java" afterDir="false" />
-    </list>
+    <list default="true" id="2559bf27-53a9-450e-8dcf-186e7f8bbe11" name="Changes" comment="refactor println" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,12 +79,20 @@
       <option name="project" value="LOCAL؜" />
       <updated>1678826119744</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL؜-٠٠٠٠٤" summary="refactor println">
+      <created>1678826849873</created>
+      <option name="number" value="٠٠٠٠٤" />
+      <option name="presentableId" value="LOCAL؜-٠٠٠٠٤" />
+      <option name="project" value="LOCAL؜" />
+      <updated>1678826849873</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="task logic" />
-    <option name="LAST_COMMIT_MESSAGE" value="task logic" />
+    <MESSAGE value="refactor println" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor println" />
   </component>
 </project>
